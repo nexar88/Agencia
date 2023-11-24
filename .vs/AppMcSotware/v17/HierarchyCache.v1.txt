@@ -1,0 +1,459 @@
+﻿++Solución "AppMcSotware" ‎(5 de 5 proyectos)
+i:{00000000-0000-0000-0000-000000000000}:AppMcSotware.sln
+++CapaEntidad
+i:{00000000-0000-0000-0000-000000000000}:CapaEntidad
+i:{ada5708d-87ac-40a6-9396-9c3b28fc50d5}:
+i:{904b32c3-1154-4ceb-8971-6154d9f59b89}:
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:
+++Properties
+i:{33e5dbea-88e4-4278-8525-3e139bdb11da}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capaentidad\properties\
+i:{ada5708d-87ac-40a6-9396-9c3b28fc50d5}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capadatos\properties\
+i:{904b32c3-1154-4ceb-8971-6154d9f59b89}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capanegocio\properties\
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\properties\
+++Referencias
+i:{33e5dbea-88e4-4278-8525-3e139bdb11da}:
+i:{ada5708d-87ac-40a6-9396-9c3b28fc50d5}:
+i:{904b32c3-1154-4ceb-8971-6154d9f59b89}:
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:
+++bin
+i:{33e5dbea-88e4-4278-8525-3e139bdb11da}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capaentidad\bin\
+i:{ada5708d-87ac-40a6-9396-9c3b28fc50d5}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capadatos\bin\
+i:{904b32c3-1154-4ceb-8971-6154d9f59b89}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capanegocio\bin\
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\bin\
+++Generales
+i:{33e5dbea-88e4-4278-8525-3e139bdb11da}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capaentidad\generales\
+++obj
+i:{33e5dbea-88e4-4278-8525-3e139bdb11da}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capaentidad\obj\
+i:{ada5708d-87ac-40a6-9396-9c3b28fc50d5}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capadatos\obj\
+i:{904b32c3-1154-4ceb-8971-6154d9f59b89}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capanegocio\obj\
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\obj\
+++Class1.cs
+i:{33e5dbea-88e4-4278-8525-3e139bdb11da}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capaentidad\class1.cs
+i:{ada5708d-87ac-40a6-9396-9c3b28fc50d5}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capadatos\class1.cs
+i:{904b32c3-1154-4ceb-8971-6154d9f59b89}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capanegocio\class1.cs
+i:{a23ae56e-7467-4fb9-a41e-1ec39eecb581}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\comun\class1.cs
+++Cls_Menu_BE.cs
+i:{33e5dbea-88e4-4278-8525-3e139bdb11da}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capaentidad\cls_menu_be.cs
+++Cls_Pregunta_BE.cs
+i:{33e5dbea-88e4-4278-8525-3e139bdb11da}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capaentidad\cls_pregunta_be.cs
+++Cls_Respuesta_BE.cs
+i:{33e5dbea-88e4-4278-8525-3e139bdb11da}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capaentidad\cls_respuesta_be.cs
+++Cls_Usuario_X_Empleado_BE.cs
+i:{33e5dbea-88e4-4278-8525-3e139bdb11da}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capaentidad\cls_usuario_x_empleado_be.cs
+++AssemblyInfo.cs
+i:{33e5dbea-88e4-4278-8525-3e139bdb11da}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capaentidad\properties\assemblyinfo.cs
+i:{ada5708d-87ac-40a6-9396-9c3b28fc50d5}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capadatos\properties\assemblyinfo.cs
+i:{904b32c3-1154-4ceb-8971-6154d9f59b89}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capanegocio\properties\assemblyinfo.cs
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\properties\assemblyinfo.cs
+++Microsoft.CSharp
+i:{33e5dbea-88e4-4278-8525-3e139bdb11da}:
+i:{ada5708d-87ac-40a6-9396-9c3b28fc50d5}:
+i:{904b32c3-1154-4ceb-8971-6154d9f59b89}:
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:
+++System
+i:{33e5dbea-88e4-4278-8525-3e139bdb11da}:
+i:{ada5708d-87ac-40a6-9396-9c3b28fc50d5}:
+i:{904b32c3-1154-4ceb-8971-6154d9f59b89}:
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:
+++System.Core
+i:{33e5dbea-88e4-4278-8525-3e139bdb11da}:
+i:{ada5708d-87ac-40a6-9396-9c3b28fc50d5}:
+i:{904b32c3-1154-4ceb-8971-6154d9f59b89}:
+++System.Data
+i:{33e5dbea-88e4-4278-8525-3e139bdb11da}:
+i:{ada5708d-87ac-40a6-9396-9c3b28fc50d5}:
+i:{904b32c3-1154-4ceb-8971-6154d9f59b89}:
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:
+++System.Data.DataSetExtensions
+i:{33e5dbea-88e4-4278-8525-3e139bdb11da}:
+i:{ada5708d-87ac-40a6-9396-9c3b28fc50d5}:
+i:{904b32c3-1154-4ceb-8971-6154d9f59b89}:
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:
+++System.Net.Http
+i:{33e5dbea-88e4-4278-8525-3e139bdb11da}:
+i:{ada5708d-87ac-40a6-9396-9c3b28fc50d5}:
+i:{904b32c3-1154-4ceb-8971-6154d9f59b89}:
+++System.Xml
+i:{33e5dbea-88e4-4278-8525-3e139bdb11da}:
+i:{ada5708d-87ac-40a6-9396-9c3b28fc50d5}:
+i:{904b32c3-1154-4ceb-8971-6154d9f59b89}:
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:
+++System.Xml.Linq
+i:{33e5dbea-88e4-4278-8525-3e139bdb11da}:
+i:{ada5708d-87ac-40a6-9396-9c3b28fc50d5}:
+i:{904b32c3-1154-4ceb-8971-6154d9f59b89}:
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:
+++Debug
+i:{33e5dbea-88e4-4278-8525-3e139bdb11da}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capaentidad\bin\debug\
+i:{33e5dbea-88e4-4278-8525-3e139bdb11da}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capaentidad\obj\debug\
+i:{ada5708d-87ac-40a6-9396-9c3b28fc50d5}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capadatos\bin\debug\
+i:{ada5708d-87ac-40a6-9396-9c3b28fc50d5}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capadatos\obj\debug\
+i:{904b32c3-1154-4ceb-8971-6154d9f59b89}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capanegocio\bin\debug\
+i:{904b32c3-1154-4ceb-8971-6154d9f59b89}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capanegocio\obj\debug\
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\obj\debug\
+++Release
+i:{33e5dbea-88e4-4278-8525-3e139bdb11da}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capaentidad\bin\release\
+++EndDec.cs
+i:{33e5dbea-88e4-4278-8525-3e139bdb11da}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capaentidad\generales\enddec.cs
+++CapaEntidad.dll
+i:{33e5dbea-88e4-4278-8525-3e139bdb11da}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capaentidad\bin\debug\capaentidad.dll
+i:{ada5708d-87ac-40a6-9396-9c3b28fc50d5}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capadatos\bin\debug\capaentidad.dll
+i:{904b32c3-1154-4ceb-8971-6154d9f59b89}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capanegocio\bin\debug\capaentidad.dll
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\bin\capaentidad.dll
+++CapaEntidad.pdb
+i:{33e5dbea-88e4-4278-8525-3e139bdb11da}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capaentidad\bin\debug\capaentidad.pdb
+i:{ada5708d-87ac-40a6-9396-9c3b28fc50d5}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capadatos\bin\debug\capaentidad.pdb
+i:{904b32c3-1154-4ceb-8971-6154d9f59b89}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capanegocio\bin\debug\capaentidad.pdb
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\bin\capaentidad.pdb
+++.NETFramework,Version=v4.8.AssemblyAttributes.cs
+i:{33e5dbea-88e4-4278-8525-3e139bdb11da}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capaentidad\obj\debug\.netframework,version=v4.8.assemblyattributes.cs
+i:{ada5708d-87ac-40a6-9396-9c3b28fc50d5}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capadatos\obj\debug\.netframework,version=v4.8.assemblyattributes.cs
+i:{904b32c3-1154-4ceb-8971-6154d9f59b89}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capanegocio\obj\debug\.netframework,version=v4.8.assemblyattributes.cs
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\obj\debug\.netframework,version=v4.8.assemblyattributes.cs
+++CapaDatos
+i:{00000000-0000-0000-0000-000000000000}:CapaDatos
+i:{904b32c3-1154-4ceb-8971-6154d9f59b89}:
+++Cls_BD.cs
+i:{ada5708d-87ac-40a6-9396-9c3b28fc50d5}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capadatos\cls_bd.cs
+++Cls_Menu_BD.cs
+i:{ada5708d-87ac-40a6-9396-9c3b28fc50d5}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capadatos\cls_menu_bd.cs
+++Globales.cs
+i:{ada5708d-87ac-40a6-9396-9c3b28fc50d5}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capadatos\globales.cs
+++PersonalDAO.cs
+i:{ada5708d-87ac-40a6-9396-9c3b28fc50d5}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capadatos\personaldao.cs
+++System.configuration
+i:{ada5708d-87ac-40a6-9396-9c3b28fc50d5}:
+++CapaDatos.dll
+i:{ada5708d-87ac-40a6-9396-9c3b28fc50d5}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capadatos\bin\debug\capadatos.dll
+i:{904b32c3-1154-4ceb-8971-6154d9f59b89}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capanegocio\bin\debug\capadatos.dll
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\bin\capadatos.dll
+++CapaDatos.pdb
+i:{ada5708d-87ac-40a6-9396-9c3b28fc50d5}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capadatos\bin\debug\capadatos.pdb
+i:{904b32c3-1154-4ceb-8971-6154d9f59b89}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capanegocio\bin\debug\capadatos.pdb
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\bin\capadatos.pdb
+++CapaNegocio
+i:{00000000-0000-0000-0000-000000000000}:CapaNegocio
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:
+++Cls_Menu_BN.cs
+i:{904b32c3-1154-4ceb-8971-6154d9f59b89}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capanegocio\cls_menu_bn.cs
+++PersonalLN.cs
+i:{904b32c3-1154-4ceb-8971-6154d9f59b89}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capanegocio\personalln.cs
+++CapaNegocio.dll
+i:{904b32c3-1154-4ceb-8971-6154d9f59b89}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capanegocio\bin\debug\capanegocio.dll
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\bin\capanegocio.dll
+++CapaNegocio.pdb
+i:{904b32c3-1154-4ceb-8971-6154d9f59b89}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\capanegocio\bin\debug\capanegocio.pdb
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\bin\capanegocio.pdb
+++McSoftware
+i:{00000000-0000-0000-0000-000000000000}:McSoftware
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:
+++MSCaptcha
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:
+++Newtonsoft.Json
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:
+++Newtonsoft.Json.Bson
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:
+++System.ComponentModel.DataAnnotations
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:
+++System.Configuration
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:
+++System.Drawing
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:
+++System.EnterpriseServices
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:
+++System.Web
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:
+++System.Web.ApplicationServices
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:
+++System.Web.DynamicData
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:
+++System.Web.Entity
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:
+++System.Web.Extensions
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:
+++System.Web.Services
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:
+++assets
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\assets\
+++dist
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\assets\dist\
+++font-awesome
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\assets\font-awesome\
+++plugins
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\assets\plugins\
+++themify-icons
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\assets\themify-icons\
+++Content
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\content\
+++bootstrap-theme.css
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\content\bootstrap-theme.css
+++bootstrap-theme.css.map
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\content\bootstrap-theme.css.map
+++bootstrap-theme.min.css
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\content\bootstrap-theme.min.css
+++bootstrap-theme.min.css.map
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\content\bootstrap-theme.min.css.map
+++bootstrap.css
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\content\bootstrap.css
+++bootstrap.css.map
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\content\bootstrap.css.map
+++bootstrap.min.css
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\content\bootstrap.min.css
+++bootstrap.min.css.map
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\content\bootstrap.min.css.map
+++master.css
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\content\master.css
+++stylehealth.min.css
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\content\stylehealth.min.css
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\assets\dist\css\stylehealth.min.css
+++fonts
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\fonts\
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\assets\font-awesome\fonts\
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\assets\themify-icons\fonts\
+++Scripts
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\scripts\
+++util
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\util\
+++descarga.png
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\util\descarga.png
+++MSCaptcha.dll
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\util\mscaptcha.dll
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\bin\mscaptcha.dll
+++View
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\view\
+++js
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\view\js\
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\assets\dist\js\
+++Producto.aspx
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\view\producto.aspx
+++Default.aspx
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\default.aspx
+++FrmLogin.aspx
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\frmlogin.aspx
+++packages.config
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\packages.config
+++Site1.Master
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\site1.master
+++Web.config
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\web.config
+++css
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\assets\dist\css\
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\assets\font-awesome\css\
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\assets\themify-icons\css\
+++img
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\assets\dist\img\
+++fastclick
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\assets\plugins\fastclick\
+++slimScroll
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\assets\plugins\slimscroll\
+++themify-icons.css
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\assets\themify-icons\themify-icons.css
+++roslyn
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\bin\roslyn\
+++McSoftware.dll
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\bin\mcsoftware.dll
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\obj\debug\mcsoftware.dll
+++McSoftware.dll.config
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\bin\mcsoftware.dll.config
+++McSoftware.pdb
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\bin\mcsoftware.pdb
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\obj\debug\mcsoftware.pdb
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\bin\microsoft.codedom.providers.dotnetcompilerplatform.dll
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\bin\microsoft.codedom.providers.dotnetcompilerplatform.xml
+++Newtonsoft.Json.Bson.dll
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\bin\newtonsoft.json.bson.dll
+++Newtonsoft.Json.Bson.pdb
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\bin\newtonsoft.json.bson.pdb
+++Newtonsoft.Json.Bson.xml
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\bin\newtonsoft.json.bson.xml
+++Newtonsoft.Json.dll
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\bin\newtonsoft.json.dll
+++Newtonsoft.Json.Schema.dll
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\bin\newtonsoft.json.schema.dll
+++Newtonsoft.Json.xml
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\bin\newtonsoft.json.xml
+++glyphicons-halflings-regular.eot
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\fonts\glyphicons-halflings-regular.eot
+++glyphicons-halflings-regular.svg
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\fonts\glyphicons-halflings-regular.svg
+++glyphicons-halflings-regular.ttf
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\fonts\glyphicons-halflings-regular.ttf
+++glyphicons-halflings-regular.woff
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\fonts\glyphicons-halflings-regular.woff
+++glyphicons-halflings-regular.woff2
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\fonts\glyphicons-halflings-regular.woff2
+++bootstrap.js
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\scripts\bootstrap.js
+++bootstrap.min.js
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\scripts\bootstrap.min.js
+++jquery-3.4.1.intellisense.js
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\scripts\jquery-3.4.1.intellisense.js
+++jquery-3.4.1.js
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\scripts\jquery-3.4.1.js
+++jquery-3.4.1.min.js
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\scripts\jquery-3.4.1.min.js
+++jquery-3.4.1.min.map
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\scripts\jquery-3.4.1.min.map
+++jquery-3.4.1.slim.js
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\scripts\jquery-3.4.1.slim.js
+++jquery-3.4.1.slim.min.js
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\scripts\jquery-3.4.1.slim.min.js
+++jquery-3.4.1.slim.min.map
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\scripts\jquery-3.4.1.slim.min.map
+++moment-with-locales.js
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\scripts\moment-with-locales.js
+++moment-with-locales.min.js
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\scripts\moment-with-locales.min.js
+++moment-with-locales.min.js.map
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\scripts\moment-with-locales.min.js.map
+++moment.js
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\scripts\moment.js
+++moment.min.js
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\scripts\moment.min.js
+++moment.min.js.map
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\scripts\moment.min.js.map
+++sweetalert2.min.js
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\scripts\sweetalert2.min.js
+++Producto.js
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\view\js\producto.js
+++Producto.aspx.cs
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\view\producto.aspx.cs
+++Producto.aspx.designer.cs
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\view\producto.aspx.designer.cs
+++Default.aspx.cs
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\default.aspx.cs
+++Default.aspx.designer.cs
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\default.aspx.designer.cs
+++FrmLogin.aspx.cs
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\frmlogin.aspx.cs
+++FrmLogin.aspx.designer.cs
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\frmlogin.aspx.designer.cs
+++Site1.Master.cs
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\site1.master.cs
+++Site1.Master.designer.cs
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\site1.master.designer.cs
+++Web.Debug.config
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\web.debug.config
+++Web.Release.config
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\web.release.config
+++css.css
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\assets\dist\css\css.css
+++letras-size.css
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\assets\dist\css\letras-size.css
+++Main.css
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\assets\dist\css\main.css
+++sweetalert2.min.css
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\assets\dist\css\sweetalert2.min.css
+++avatar2.png
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\assets\dist\img\avatar2.png
+++avatar3.png
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\assets\dist\img\avatar3.png
+++avatar4.png
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\assets\dist\img\avatar4.png
+++avatar5.png
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\assets\dist\img\avatar5.png
+++lab.png
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\assets\dist\img\lab.png
+++logo.png
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\assets\dist\img\logo.png
+++mini-logo.png
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\assets\dist\img\mini-logo.png
+++nocontrol.png
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\assets\dist\img\nocontrol.png
+++stethescope.png
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\assets\dist\img\stethescope.png
+++therm.jpg
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\assets\dist\img\therm.jpg
+++custom1.js
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\assets\dist\js\custom1.js
+++letras-size.js
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\assets\dist\js\letras-size.js
+++font-awesome.min.css
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\assets\font-awesome\css\font-awesome.min.css
+++fontawesome-webfont.ttf
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\assets\font-awesome\fonts\fontawesome-webfont.ttf
+++fontawesome-webfont.woff
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\assets\font-awesome\fonts\fontawesome-webfont.woff
+++fontawesome-webfont.woff2
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\assets\font-awesome\fonts\fontawesome-webfont.woff2
+++fastclick.min.js
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\assets\plugins\fastclick\fastclick.min.js
+++jquery.slimscroll.min.js
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\assets\plugins\fastclick\jquery.slimscroll.min.js
+++pe-icon-7-stroke.css
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\assets\themify-icons\css\pe-icon-7-stroke.css
+++Pe-icon-7-stroke.ttf
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\assets\themify-icons\fonts\pe-icon-7-stroke.ttf
+++Pe-icon-7-stroke.woff
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\assets\themify-icons\fonts\pe-icon-7-stroke.woff
+++csc.exe
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\bin\roslyn\csc.exe
+++Microsoft.Build.Tasks.CodeAnalysis.dll
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\bin\roslyn\microsoft.build.tasks.codeanalysis.dll
+++Microsoft.CodeAnalysis.CSharp.dll
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\bin\roslyn\microsoft.codeanalysis.csharp.dll
+++Microsoft.CodeAnalysis.dll
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\bin\roslyn\microsoft.codeanalysis.dll
+++Microsoft.CodeAnalysis.VisualBasic.dll
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\bin\roslyn\microsoft.codeanalysis.visualbasic.dll
+++Microsoft.CSharp.Core.targets
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\bin\roslyn\microsoft.csharp.core.targets
+++Microsoft.VisualBasic.Core.targets
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\bin\roslyn\microsoft.visualbasic.core.targets
+++System.Collections.Immutable.dll
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\bin\roslyn\system.collections.immutable.dll
+++System.Reflection.Metadata.dll
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\bin\roslyn\system.reflection.metadata.dll
+++vbc.exe
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\bin\roslyn\vbc.exe
+++VBCSCompiler.exe
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\bin\roslyn\vbcscompiler.exe
+++VBCSCompiler.exe.config
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\bin\roslyn\vbcscompiler.exe.config
+++TempPE
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\obj\debug\temppe\
+++DesignTimeResolveAssemblyReferences.cache
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\obj\debug\designtimeresolveassemblyreferences.cache
+++DesignTimeResolveAssemblyReferencesInput.cache
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\obj\debug\designtimeresolveassemblyreferencesinput.cache
+++McSoftware.csproj.AssemblyReference.cache
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\obj\debug\mcsoftware.csproj.assemblyreference.cache
+++McSoftware.csproj.CopyComplete
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\obj\debug\mcsoftware.csproj.copycomplete
+++McSoftware.csproj.CoreCompileInputs.cache
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\obj\debug\mcsoftware.csproj.corecompileinputs.cache
+++McSoftware.csproj.FileListAbsolute.txt
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\obj\debug\mcsoftware.csproj.filelistabsolute.txt
+++McSoftware.csprojResolveAssemblyReference.cache
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\obj\debug\mcsoftware.csprojresolveassemblyreference.cache
+++TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\obj\debug\temporarygeneratedfile_036c0b5b-1481-4323-8d20-8f5adcb23d92.cs
+++TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\obj\debug\temporarygeneratedfile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+++TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\obj\debug\temporarygeneratedfile_e7a71f73-0f8d-4b9b-b56e-8e70b10bc5d3.cs
+++Comun
+i:{00000000-0000-0000-0000-000000000000}:Comun
+++Dependencias
+i:{a23ae56e-7467-4fb9-a41e-1ec39eecb581}:>72
+++Funciones.cs
+i:{a23ae56e-7467-4fb9-a41e-1ec39eecb581}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\comun\funciones.cs
+++GET_IP.cs
+i:{a23ae56e-7467-4fb9-a41e-1ec39eecb581}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\comun\get_ip.cs
+++Analizadores
+i:{a23ae56e-7467-4fb9-a41e-1ec39eecb581}:analizadores
+++Marcos de trabajo
+i:{a23ae56e-7467-4fb9-a41e-1ec39eecb581}:marcos de trabajo
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{a23ae56e-7467-4fb9-a41e-1ec39eecb581}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{a23ae56e-7467-4fb9-a41e-1ec39eecb581}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++System.Text.Json.SourceGeneration
+i:{a23ae56e-7467-4fb9-a41e-1ec39eecb581}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{a23ae56e-7467-4fb9-a41e-1ec39eecb581}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\comun\microsoft.netcore.app
+++banco.png
+i:{4c86d3be-f269-46af-a5eb-57307b94b2ea}:d:\proyecto\mcsoftware 20230227\mcsoftware 20200412\mcsoftware\util\banco.png

@@ -1,0 +1,16 @@
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\Comun\bin\Debug\Comun.dll
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\Comun\bin\Debug\Comun.pdb
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\Comun\obj\Debug\Comun.csproj.AssemblyReference.cache
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\Comun\obj\Debug\Comun.csproj.CoreCompileInputs.cache
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\Comun\obj\Debug\Comun.dll
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\Comun\obj\Debug\Comun.pdb
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\Comun\bin\Debug\MSCaptcha.dll
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\Comun\obj\Debug\Comun.csproj.CopyComplete
+D:\McSoftware 20200412\McSoftware 20200412\Comun\bin\Debug\Comun.dll
+D:\McSoftware 20200412\McSoftware 20200412\Comun\bin\Debug\Comun.pdb
+D:\McSoftware 20200412\McSoftware 20200412\Comun\bin\Debug\MSCaptcha.dll
+D:\McSoftware 20200412\McSoftware 20200412\Comun\obj\Debug\Comun.csproj.AssemblyReference.cache
+D:\McSoftware 20200412\McSoftware 20200412\Comun\obj\Debug\Comun.csproj.CoreCompileInputs.cache
+D:\McSoftware 20200412\McSoftware 20200412\Comun\obj\Debug\Comun.csproj.CopyComplete
+D:\McSoftware 20200412\McSoftware 20200412\Comun\obj\Debug\Comun.dll
+D:\McSoftware 20200412\McSoftware 20200412\Comun\obj\Debug\Comun.pdb

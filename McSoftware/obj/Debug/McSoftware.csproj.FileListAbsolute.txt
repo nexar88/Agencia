@@ -1,0 +1,203 @@
+D:\SISTEMAS\McSoftware\McSoftware\bin\roslyn\csc.exe
+D:\SISTEMAS\McSoftware\McSoftware\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SISTEMAS\McSoftware\McSoftware\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SISTEMAS\McSoftware\McSoftware\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SISTEMAS\McSoftware\McSoftware\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SISTEMAS\McSoftware\McSoftware\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SISTEMAS\McSoftware\McSoftware\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SISTEMAS\McSoftware\McSoftware\bin\roslyn\System.Collections.Immutable.dll
+D:\SISTEMAS\McSoftware\McSoftware\bin\roslyn\System.Reflection.Metadata.dll
+D:\SISTEMAS\McSoftware\McSoftware\bin\roslyn\vbc.exe
+D:\SISTEMAS\McSoftware\McSoftware\bin\roslyn\VBCSCompiler.exe
+D:\SISTEMAS\McSoftware\McSoftware\bin\roslyn\VBCSCompiler.exe.config
+D:\SISTEMAS\McSoftware\McSoftware\bin\McSoftware.dll.config
+D:\SISTEMAS\McSoftware\McSoftware\bin\McSoftware.dll
+D:\SISTEMAS\McSoftware\McSoftware\bin\McSoftware.pdb
+D:\SISTEMAS\McSoftware\McSoftware\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SISTEMAS\McSoftware\McSoftware\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SISTEMAS\McSoftware\McSoftware\obj\Debug\McSoftware.dll
+D:\SISTEMAS\McSoftware\McSoftware\obj\Debug\McSoftware.pdb
+D:\SISTEMAS\McSoftware\McSoftware\obj\Debug\McSoftware.csprojResolveAssemblyReference.cache
+D:\SISTEMAS\McSoftware\McSoftware\bin\CapaEntidad.dll
+D:\SISTEMAS\McSoftware\McSoftware\bin\CapaNegocio.dll
+D:\SISTEMAS\McSoftware\McSoftware\bin\CapaEntidad.pdb
+D:\SISTEMAS\McSoftware\McSoftware\bin\CapaNegocio.pdb
+D:\SISTEMAS\McSoftware\McSoftware\bin\CapaDatos.dll
+D:\SISTEMAS\McSoftware\McSoftware\bin\CapaDatos.pdb
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\roslyn\csc.exe
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\roslyn\System.Collections.Immutable.dll
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\roslyn\vbc.exe
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\roslyn\VBCSCompiler.exe
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\roslyn\VBCSCompiler.exe.config
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\McSoftware.dll.config
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\McSoftware.dll
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\McSoftware.pdb
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\CapaEntidad.dll
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\CapaNegocio.dll
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\CapaDatos.dll
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\CapaEntidad.pdb
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\CapaNegocio.pdb
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\CapaDatos.pdb
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\McSoftware\obj\Debug\McSoftware.csproj.AssemblyReference.cache
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\McSoftware\obj\Debug\McSoftware.csproj.CoreCompileInputs.cache
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\McSoftware\obj\Debug\McSoftware.csproj.CopyComplete
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\McSoftware\obj\Debug\McSoftware.dll
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\McSoftware\obj\Debug\McSoftware.pdb
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\Newtonsoft.Json.Bson.dll
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\Newtonsoft.Json.dll
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\Newtonsoft.Json.xml
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\Newtonsoft.Json.Bson.pdb
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\Newtonsoft.Json.Bson.xml
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\McSoftware\obj\Debug\McSoftware.csproj.AssemblyReference.cache
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\McSoftware\obj\Debug\McSoftware.csproj.CoreCompileInputs.cache
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\McSoftware\bin\roslyn\csc.exe
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\McSoftware\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\McSoftware\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\McSoftware\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\McSoftware\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\McSoftware\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\McSoftware\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\McSoftware\bin\roslyn\System.Collections.Immutable.dll
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\McSoftware\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\McSoftware\bin\roslyn\vbc.exe
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\McSoftware\bin\roslyn\VBCSCompiler.exe
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\McSoftware\bin\roslyn\VBCSCompiler.exe.config
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\McSoftware\bin\McSoftware.dll.config
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\McSoftware\bin\McSoftware.dll
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\McSoftware\bin\McSoftware.pdb
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\McSoftware\bin\CapaEntidad.dll
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\McSoftware\bin\CapaNegocio.dll
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\McSoftware\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\McSoftware\bin\MSCaptcha.dll
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\McSoftware\bin\Newtonsoft.Json.Bson.dll
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\McSoftware\bin\Newtonsoft.Json.dll
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\McSoftware\bin\CapaDatos.dll
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\McSoftware\bin\CapaEntidad.pdb
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\McSoftware\bin\CapaNegocio.pdb
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\McSoftware\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\McSoftware\bin\Newtonsoft.Json.xml
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\McSoftware\bin\Newtonsoft.Json.Bson.pdb
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\McSoftware\bin\Newtonsoft.Json.Bson.xml
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\McSoftware\bin\CapaDatos.pdb
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\McSoftware\obj\Debug\McSoftware.csproj.CopyComplete
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\McSoftware\obj\Debug\McSoftware.dll
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\McSoftware\obj\Debug\McSoftware.pdb
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\McSoftware\bin\Comun.dll
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\McSoftware\bin\Comun.pdb
+D:\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\roslyn\csc.exe
+D:\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\roslyn\System.Collections.Immutable.dll
+D:\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\roslyn\System.Reflection.Metadata.dll
+D:\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\roslyn\vbc.exe
+D:\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\roslyn\VBCSCompiler.exe
+D:\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\roslyn\VBCSCompiler.exe.config
+D:\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\McSoftware.dll.config
+D:\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\McSoftware.dll
+D:\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\McSoftware.pdb
+D:\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\CapaEntidad.dll
+D:\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\CapaNegocio.dll
+D:\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\Comun.dll
+D:\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\MSCaptcha.dll
+D:\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\Newtonsoft.Json.Bson.dll
+D:\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\Newtonsoft.Json.dll
+D:\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\CapaDatos.dll
+D:\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\CapaEntidad.pdb
+D:\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\CapaNegocio.pdb
+D:\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\Comun.pdb
+D:\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\Newtonsoft.Json.xml
+D:\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\Newtonsoft.Json.Bson.pdb
+D:\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\Newtonsoft.Json.Bson.xml
+D:\McSoftware 20200412\McSoftware 20200412\McSoftware\bin\CapaDatos.pdb
+D:\McSoftware 20200412\McSoftware 20200412\McSoftware\obj\Debug\McSoftware.csproj.AssemblyReference.cache
+D:\McSoftware 20200412\McSoftware 20200412\McSoftware\obj\Debug\McSoftware.csproj.CoreCompileInputs.cache
+D:\McSoftware 20200412\McSoftware 20200412\McSoftware\obj\Debug\McSoftware.csproj.CopyComplete
+D:\McSoftware 20200412\McSoftware 20200412\McSoftware\obj\Debug\McSoftware.dll
+D:\McSoftware 20200412\McSoftware 20200412\McSoftware\obj\Debug\McSoftware.pdb
+D:\McSoftware 20200412\McSoftware 20200412 - copia\McSoftware\obj\Debug\McSoftware.csproj.AssemblyReference.cache
+D:\McSoftware 20200412\McSoftware 20200412 - copia\McSoftware\obj\Debug\McSoftware.csproj.CoreCompileInputs.cache
+D:\McSoftware 20200412\McSoftware 20200412 - copia\McSoftware\obj\Debug\McSoftware.dll
+D:\McSoftware 20200412\McSoftware 20200412 - copia\McSoftware\obj\Debug\McSoftware.pdb
+D:\McSoftware 20200412\McSoftware 20200412 - copia\McSoftware\bin\roslyn\csc.exe
+D:\McSoftware 20200412\McSoftware 20200412 - copia\McSoftware\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\McSoftware 20200412\McSoftware 20200412 - copia\McSoftware\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\McSoftware 20200412\McSoftware 20200412 - copia\McSoftware\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\McSoftware 20200412\McSoftware 20200412 - copia\McSoftware\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\McSoftware 20200412\McSoftware 20200412 - copia\McSoftware\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\McSoftware 20200412\McSoftware 20200412 - copia\McSoftware\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\McSoftware 20200412\McSoftware 20200412 - copia\McSoftware\bin\roslyn\System.Collections.Immutable.dll
+D:\McSoftware 20200412\McSoftware 20200412 - copia\McSoftware\bin\roslyn\System.Reflection.Metadata.dll
+D:\McSoftware 20200412\McSoftware 20200412 - copia\McSoftware\bin\roslyn\vbc.exe
+D:\McSoftware 20200412\McSoftware 20200412 - copia\McSoftware\bin\roslyn\VBCSCompiler.exe
+D:\McSoftware 20200412\McSoftware 20200412 - copia\McSoftware\bin\roslyn\VBCSCompiler.exe.config
+D:\McSoftware 20200412\McSoftware 20200412 - copia\McSoftware\bin\McSoftware.dll.config
+D:\McSoftware 20200412\McSoftware 20200412 - copia\McSoftware\bin\McSoftware.dll
+D:\McSoftware 20200412\McSoftware 20200412 - copia\McSoftware\bin\McSoftware.pdb
+D:\McSoftware 20200412\McSoftware 20200412 - copia\McSoftware\bin\CapaEntidad.dll
+D:\McSoftware 20200412\McSoftware 20200412 - copia\McSoftware\bin\CapaNegocio.dll
+D:\McSoftware 20200412\McSoftware 20200412 - copia\McSoftware\bin\Comun.dll
+D:\McSoftware 20200412\McSoftware 20200412 - copia\McSoftware\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\McSoftware 20200412\McSoftware 20200412 - copia\McSoftware\bin\MSCaptcha.dll
+D:\McSoftware 20200412\McSoftware 20200412 - copia\McSoftware\bin\Newtonsoft.Json.Bson.dll
+D:\McSoftware 20200412\McSoftware 20200412 - copia\McSoftware\bin\Newtonsoft.Json.dll
+D:\McSoftware 20200412\McSoftware 20200412 - copia\McSoftware\bin\CapaDatos.dll
+D:\McSoftware 20200412\McSoftware 20200412 - copia\McSoftware\bin\CapaEntidad.pdb
+D:\McSoftware 20200412\McSoftware 20200412 - copia\McSoftware\bin\CapaNegocio.pdb
+D:\McSoftware 20200412\McSoftware 20200412 - copia\McSoftware\bin\Comun.pdb
+D:\McSoftware 20200412\McSoftware 20200412 - copia\McSoftware\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\McSoftware 20200412\McSoftware 20200412 - copia\McSoftware\bin\Newtonsoft.Json.xml
+D:\McSoftware 20200412\McSoftware 20200412 - copia\McSoftware\bin\Newtonsoft.Json.Bson.pdb
+D:\McSoftware 20200412\McSoftware 20200412 - copia\McSoftware\bin\Newtonsoft.Json.Bson.xml
+D:\McSoftware 20200412\McSoftware 20200412 - copia\McSoftware\bin\CapaDatos.pdb
+D:\McSoftware 20200412\McSoftware 20200412 - copia\McSoftware\obj\Debug\McSoftware.csproj.CopyComplete
+D:\ULTIMO\ULTIMO\McSoftware 20230326\McSoftware\bin\roslyn\csc.exe
+D:\ULTIMO\ULTIMO\McSoftware 20230326\McSoftware\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ULTIMO\ULTIMO\McSoftware 20230326\McSoftware\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ULTIMO\ULTIMO\McSoftware 20230326\McSoftware\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ULTIMO\ULTIMO\McSoftware 20230326\McSoftware\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ULTIMO\ULTIMO\McSoftware 20230326\McSoftware\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ULTIMO\ULTIMO\McSoftware 20230326\McSoftware\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ULTIMO\ULTIMO\McSoftware 20230326\McSoftware\bin\roslyn\System.Collections.Immutable.dll
+D:\ULTIMO\ULTIMO\McSoftware 20230326\McSoftware\bin\roslyn\System.Reflection.Metadata.dll
+D:\ULTIMO\ULTIMO\McSoftware 20230326\McSoftware\bin\roslyn\vbc.exe
+D:\ULTIMO\ULTIMO\McSoftware 20230326\McSoftware\bin\roslyn\VBCSCompiler.exe
+D:\ULTIMO\ULTIMO\McSoftware 20230326\McSoftware\bin\roslyn\VBCSCompiler.exe.config
+D:\ULTIMO\ULTIMO\McSoftware 20230326\McSoftware\bin\McSoftware.dll.config
+D:\ULTIMO\ULTIMO\McSoftware 20230326\McSoftware\bin\McSoftware.dll
+D:\ULTIMO\ULTIMO\McSoftware 20230326\McSoftware\bin\McSoftware.pdb
+D:\ULTIMO\ULTIMO\McSoftware 20230326\McSoftware\bin\CapaEntidad.dll
+D:\ULTIMO\ULTIMO\McSoftware 20230326\McSoftware\bin\CapaNegocio.dll
+D:\ULTIMO\ULTIMO\McSoftware 20230326\McSoftware\bin\Comun.dll
+D:\ULTIMO\ULTIMO\McSoftware 20230326\McSoftware\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ULTIMO\ULTIMO\McSoftware 20230326\McSoftware\bin\MSCaptcha.dll
+D:\ULTIMO\ULTIMO\McSoftware 20230326\McSoftware\bin\Newtonsoft.Json.Bson.dll
+D:\ULTIMO\ULTIMO\McSoftware 20230326\McSoftware\bin\Newtonsoft.Json.dll
+D:\ULTIMO\ULTIMO\McSoftware 20230326\McSoftware\bin\CapaDatos.dll
+D:\ULTIMO\ULTIMO\McSoftware 20230326\McSoftware\bin\CapaEntidad.pdb
+D:\ULTIMO\ULTIMO\McSoftware 20230326\McSoftware\bin\CapaNegocio.pdb
+D:\ULTIMO\ULTIMO\McSoftware 20230326\McSoftware\bin\Comun.pdb
+D:\ULTIMO\ULTIMO\McSoftware 20230326\McSoftware\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ULTIMO\ULTIMO\McSoftware 20230326\McSoftware\bin\Newtonsoft.Json.xml
+D:\ULTIMO\ULTIMO\McSoftware 20230326\McSoftware\bin\Newtonsoft.Json.Bson.pdb
+D:\ULTIMO\ULTIMO\McSoftware 20230326\McSoftware\bin\Newtonsoft.Json.Bson.xml
+D:\ULTIMO\ULTIMO\McSoftware 20230326\McSoftware\bin\CapaDatos.pdb
+D:\ULTIMO\ULTIMO\McSoftware 20230326\McSoftware\obj\Debug\McSoftware.csproj.AssemblyReference.cache
+D:\ULTIMO\ULTIMO\McSoftware 20230326\McSoftware\obj\Debug\McSoftware.csproj.CoreCompileInputs.cache
+D:\ULTIMO\ULTIMO\McSoftware 20230326\McSoftware\obj\Debug\McSoftware.csproj.CopyComplete
+D:\ULTIMO\ULTIMO\McSoftware 20230326\McSoftware\obj\Debug\McSoftware.dll
+D:\ULTIMO\ULTIMO\McSoftware 20230326\McSoftware\obj\Debug\McSoftware.pdb

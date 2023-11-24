@@ -1,0 +1,29 @@
+D:\SISTEMAS\McSoftware\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\SISTEMAS\McSoftware\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\SISTEMAS\McSoftware\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\SISTEMAS\McSoftware\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\SISTEMAS\McSoftware\CapaEntidad\obj\Debug\CapaEntidad.csprojResolveAssemblyReference.cache
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\McSoftware 20200412\McSoftware 20200412\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\McSoftware 20200412\McSoftware 20200412\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\McSoftware 20200412\McSoftware 20200412\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+D:\McSoftware 20200412\McSoftware 20200412\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+D:\McSoftware 20200412\McSoftware 20200412\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\McSoftware 20200412\McSoftware 20200412\CapaEntidad\obj\Debug\CapaEntidad.pdb
+D:\McSoftware 20200412\McSoftware 20200412 - copia\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\McSoftware 20200412\McSoftware 20200412 - copia\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\McSoftware 20200412\McSoftware 20200412 - copia\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+D:\McSoftware 20200412\McSoftware 20200412 - copia\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+D:\McSoftware 20200412\McSoftware 20200412 - copia\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\McSoftware 20200412\McSoftware 20200412 - copia\CapaEntidad\obj\Debug\CapaEntidad.pdb

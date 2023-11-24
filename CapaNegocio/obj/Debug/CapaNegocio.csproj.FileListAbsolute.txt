@@ -1,0 +1,64 @@
+D:\SISTEMAS\McSoftware\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\SISTEMAS\McSoftware\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\SISTEMAS\McSoftware\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+D:\SISTEMAS\McSoftware\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\SISTEMAS\McSoftware\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\SISTEMAS\McSoftware\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\SISTEMAS\McSoftware\CapaNegocio\bin\Debug\CapaEntidad.dll
+D:\SISTEMAS\McSoftware\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\SISTEMAS\McSoftware\CapaNegocio\bin\Debug\CapaEntidad.pdb
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\CapaNegocio\bin\Debug\CapaEntidad.dll
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\CapaNegocio\bin\Debug\CapaEntidad.pdb
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\PROYECTO\McSoftware 20200412\McSoftware 20200412\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\CapaNegocio\bin\Debug\CapaEntidad.dll
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\CapaNegocio\bin\Debug\CapaEntidad.pdb
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\PROYECTO\McSoftware 20230227\McSoftware 20200412\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\McSoftware 20200412\McSoftware 20200412\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\McSoftware 20200412\McSoftware 20200412\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\McSoftware 20200412\McSoftware 20200412\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\McSoftware 20200412\McSoftware 20200412\CapaNegocio\bin\Debug\CapaEntidad.dll
+D:\McSoftware 20200412\McSoftware 20200412\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\McSoftware 20200412\McSoftware 20200412\CapaNegocio\bin\Debug\CapaEntidad.pdb
+D:\McSoftware 20200412\McSoftware 20200412\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+D:\McSoftware 20200412\McSoftware 20200412\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\McSoftware 20200412\McSoftware 20200412\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+D:\McSoftware 20200412\McSoftware 20200412\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\McSoftware 20200412\McSoftware 20200412\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\McSoftware 20200412\McSoftware 20200412 - copia\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+D:\McSoftware 20200412\McSoftware 20200412 - copia\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\McSoftware 20200412\McSoftware 20200412 - copia\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\McSoftware 20200412\McSoftware 20200412 - copia\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\McSoftware 20200412\McSoftware 20200412 - copia\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\McSoftware 20200412\McSoftware 20200412 - copia\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\McSoftware 20200412\McSoftware 20200412 - copia\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\McSoftware 20200412\McSoftware 20200412 - copia\CapaNegocio\bin\Debug\CapaEntidad.dll
+D:\McSoftware 20200412\McSoftware 20200412 - copia\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\McSoftware 20200412\McSoftware 20200412 - copia\CapaNegocio\bin\Debug\CapaEntidad.pdb
+D:\McSoftware 20200412\McSoftware 20200412 - copia\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+D:\ULTIMO\ULTIMO\McSoftware 20230326\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\ULTIMO\ULTIMO\McSoftware 20230326\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\ULTIMO\ULTIMO\McSoftware 20230326\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\ULTIMO\ULTIMO\McSoftware 20230326\CapaNegocio\bin\Debug\CapaEntidad.dll
+D:\ULTIMO\ULTIMO\McSoftware 20230326\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\ULTIMO\ULTIMO\McSoftware 20230326\CapaNegocio\bin\Debug\CapaEntidad.pdb
+D:\ULTIMO\ULTIMO\McSoftware 20230326\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+D:\ULTIMO\ULTIMO\McSoftware 20230326\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\ULTIMO\ULTIMO\McSoftware 20230326\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+D:\ULTIMO\ULTIMO\McSoftware 20230326\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\ULTIMO\ULTIMO\McSoftware 20230326\CapaNegocio\obj\Debug\CapaNegocio.pdb
