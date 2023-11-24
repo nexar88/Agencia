@@ -17,7 +17,7 @@
                 <div class="col-sm-12 col-md-8 col-sm-offset-0 col-md-offset-2">
                     <fieldset class="scheduler-border">
                         <legend class="scheduler-border">
-                            <asp:Label ID="lblTitulo" runat="server" Text="AUTENTICACIÓN DE CREDENCIALES" Style="font-weight: 700;"></asp:Label>
+                            <asp:Label ID="lblTitulo" runat="server" Text="AUTENTICACIÓN DE CREDENCIALES CAMBIO" Style="font-weight: 700;"></asp:Label>
                         </legend>
                         <div class="col-md-4">
                             <div style="text-align: center; margin-top: 30%; border: 5px;">
